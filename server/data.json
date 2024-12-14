@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category": "CPU",
+    "productName": "Ryzen 7 5700x3D",
+    "sellerName": "MD Computers",
+    "qty": 2
+  },
+  {
+    "id": 2,
+    "category": "GPU",
+    "productName": "RTX 2060",
+    "sellerName": "Flipkart",
+    "qty": 8
+  },
+  {
+    "id": 3,
+    "category": "CPU",
+    "productName": "Intel i5-12600K",
+    "sellerName": "Amazon",
+    "qty": 5
+  },
+  {
+    "id": 4,
+    "category": "GPU",
+    "productName": "RX 6600",
+    "sellerName": "Newegg",
+    "qty": 4
+  },
+  {
+    "id": 5,
+    "category": "Motherboard",
+    "productName": "ASUS ROG STRIX B550-F",
+    "sellerName": "Amazon",
+    "qty": 3
+  },
+  {
+    "id": 6,
+    "category": "RAM",
+    "productName": "Corsair Vengeance 16GB DDR4",
+    "sellerName": "MD Computers",
+    "qty": 6
+  },
+  {
+    "id": 7,
+    "category": "SSD",
+    "productName": "Samsung 970 EVO Plus 1TB",
+    "sellerName": "Flipkart",
+    "qty": 10
+  },
+  {
+    "id": 8,
+    "category": "PSU",
+    "productName": "Corsair RM850x",
+    "sellerName": "Newegg",
+    "qty": 2
+  },
+  {
+    "id": 9,
+    "category": "CPU",
+    "productName": "Ryzen 5 5600X",
+    "sellerName": "MD Computers",
+    "qty": 7
+  },
+  {
+    "id": 10,
+    "category": "GPU",
+    "productName": "RTX 4070",
+    "sellerName": "Amazon",
+    "qty": 3
+  },
+  {
+    "id": 11,
+    "category": "HDD",
+    "productName": "Seagate Barracuda 2TB",
+    "sellerName": "Flipkart",
+    "qty": 9
+  },
+  {
+    "id": 12,
+    "category": "Monitor",
+    "productName": "LG UltraGear 27GP950",
+    "sellerName": "Newegg",
+    "qty": 4
+  },
+  {
+    "id": 13,
+    "category": "Cooling",
+    "productName": "Noctua NH-D15",
+    "sellerName": "Amazon",
+    "qty": 5
+  },
+  {
+    "id": 14,
+    "category": "GPU",
+    "productName": "RX 6800 XT",
+    "sellerName": "MD Computers",
+    "qty": 3
+  },
+  {
+    "id": 15,
+    "category": "RAM",
+    "productName": "G.SKILL Trident Z RGB 32GB",
+    "sellerName": "Flipkart",
+    "qty": 6
+  },
+  {
+    "id": 16,
+    "category": "SSD",
+    "productName": "WD Black SN850 1TB",
+    "sellerName": "Newegg",
+    "qty": 10
+  },
+  {
+    "id": 17,
+    "category": "PSU",
+    "productName": "EVGA SuperNOVA 750 G5",
+    "sellerName": "Amazon",
+    "qty": 4
+  },
+  {
+    "id": 18,
+    "category": "Motherboard",
+    "productName": "MSI MAG B660M Mortar",
+    "sellerName": "Flipkart",
+    "qty": 2
+  },
+  {
+    "id": 19,
+    "category": "Case",
+    "productName": "NZXT H510",
+    "sellerName": "Newegg",
+    "qty": 7
+  },
+  {
+    "id": 20,
+    "category": "Cooling",
+    "productName": "Cooler Master Hyper 212",
+    "sellerName": "Amazon",
+    "qty": 5
+  }
+]
